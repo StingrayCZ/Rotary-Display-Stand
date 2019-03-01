@@ -1,5 +1,5 @@
 # Rotary Display Stand
-Main purpose of this device is facilitating work for a photograher.
+Main purpose of this device is facilitating work for a photograher or who wants to rest the object in some positions.
 He's able to set the correct position by switch on a electric motor.
 Other role of this machine can as r
 
