@@ -10,7 +10,7 @@ The machine is propulsed by stepper motor (torque is 10 Nm) which take energy fr
 What do you find in this repository?
 *   Pictures of assembly snap from screen
 *   A model and drawing of shaft
-*   A assembly as <a href="http://www.edrawingsviewer.com/ed/download.htm/">eDrawings</a>file
+*   A assembly as <a href="http://www.edrawingsviewer.com/ed/download.htm/">eDrawings</a> file
 
 
 <p float="left">
