@@ -9,8 +9,8 @@ The machine is propulsed by stepper motor (torque is 10 Nm) which take energy fr
 
 What do you find in this repository?
 *   Pictures of assembly snap from screen
-*   Downloadable a model of shaft
-*   Downloadable a assembly as <a href="https://www.solidworks.com/sw/support/edrawings/e2_register.htm</a> file
+*   A model and drawing of shaft
+*   A assembly as <a href="https://www.solidworks.com/sw/support/edrawings/e2_register.htm</a> file
 
 <p float="left">
   <img src="/Pictures/IsoView.PNG" width="420" /> 
